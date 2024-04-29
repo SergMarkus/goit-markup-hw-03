@@ -50,6 +50,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  height: 72px;
 }
 
 .sec-nav {
@@ -94,7 +95,7 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   display: block;
-  padding: 24px 0;
+  /*padding: 24px 0;  зайве, так як задана висота контейнера*/
 }
 
 .contact-header {
