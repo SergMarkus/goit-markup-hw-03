@@ -143,6 +143,10 @@ img {
 /* section hero */
 .sec-hero {
   background: #2e2f42;
+  display: flex;
+  box-sizing: border-box;
+  padding: 188px 0;
+  margin: auto;
 }
 
 .hero-title {
@@ -152,6 +156,9 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  max-width: 496px;
+  margin: 0px auto;
+  margin-bottom: 48px;
 }
 
 .hero-button {
@@ -165,12 +172,21 @@ img {
   color: #fff;
   background: #4d5ae5;
 
+  display: block;
+  border-radius: 4px;
+
+  padding: 16px 32px;
+  min-width: 169px;
+  height: 56px;
   border: none;
+  margin: auto;
+
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
 .hero-button:hover,
 .hero-button:focus {
-  background: #404bbf;
+  background-color: #404bbf;
 }
 
 /* Feature */
