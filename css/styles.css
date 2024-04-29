@@ -95,7 +95,7 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   display: block;
-  /*padding: 24px 0;  зайве, так як задана висота контейнера*/
+  padding: 24px 0;
 }
 
 .contact-header {
