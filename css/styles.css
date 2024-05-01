@@ -122,7 +122,6 @@ img {
   list-style-type: none;
   display: flex;
   gap: 40px;
-  margin-right: 156px;
 }
 
 .contact-header-list {
@@ -136,7 +135,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  text-wrap: nowrap;
 }
 
 .link:hover,
