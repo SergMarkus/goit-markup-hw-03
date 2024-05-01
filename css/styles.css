@@ -76,12 +76,12 @@ img {
 .sec-nav {
   display: flex;
   align-items: center;
+  margin-right: auto;
 }
 .menu-nav {
   list-style-type: none;
   display: flex;
   gap: 40px;
-  margin-right: 332px;
 }
 
 .logo {
