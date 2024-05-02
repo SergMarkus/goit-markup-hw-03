@@ -270,7 +270,6 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
 
-  margin-top: 32px;
   text-align: center;
   color: var(--navy-blue);
 
@@ -337,5 +336,4 @@ img {
 .footer-text {
   color: var(--cloud);
   width: 264px;
-  margin-top: 16px;
-}
+  }
